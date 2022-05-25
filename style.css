@@ -1,14 +1,54 @@
-.header-bar{
-    background-color:navy;
+.section-one{
+    background-color:rgb(45, 75, 110);
     color:beige;
-    height: 60px;
-    display: flex;
-    padding-left: 5px;
-    
+    margin-top: 0px;
+    height:240px;
 }
-.header-bar h4{
-    margin-right: 290px;
+.mid-text{
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.left-text{
+    flex-direction: column;
+    justify-content: left;
+    border: solid;
+}
+.signup-button{
+    width: 80px;
+    margin-left: 30px;
+    border-radius: 6px;
+    transition-duration: 0.4s;
+    background-color:cornflowerblue;
+    color:beige;
+}
+.signup-button:hover{
+    color:beige;
+    background-color: transparent;
+}
+.image-placeholder{
+    display: flex;
+    flex-direction: row;
+    border: solid;
+    justify-content: center;
+    align-items: center;
+    width:650px;
+}
+.header-bar{
+    display: flex;
+    height: 60px;
+}
+.header-bar h4{ 
+    flex: 1, 1, auto;
+    margin-left: 20px;
+    width: 250px;
 }
 .header-bar h5{
-    margin-left: 10px;
+    margin-left: 12px;
+    font-size: 15px;
+    font-weight: lighter;
+    color:darkgrey;
+    flex: 1, 1, auto;
 }
