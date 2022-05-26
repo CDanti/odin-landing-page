@@ -3,7 +3,7 @@
     background-color:rgb(45, 75, 110);
     color:beige;
     margin-top: 0px;
-    height:280px;
+    height:300px;
 }
 .mid-text{
     display: flex;
@@ -49,6 +49,7 @@
     align-items: center;
     width:350px;
     background-color:rgb(68, 84, 84);
+    text-align: center;
 }
 .header-bar{
     display: flex;
