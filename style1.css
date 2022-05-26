@@ -13,22 +13,22 @@
     justify-content: space-around;
     margin-left: 50px;
     margin-right: 50px;
+    margin-top: 30px;
+    border:solid;
 }
 .left-text{
     flex-direction: column;
     justify-content: left;
     font-family: arial;
-
+    border:solid;
 }
 .left-text h4{
     font-weight: bold;
     font-size:24px;
-    width:250px;
 }
 .left-text p{
     margin-top: -25px;
     font-size: 14px;
-    width: 300px;
     color:darkgray;
 }
 .signup-button{
@@ -51,8 +51,10 @@
     justify-content: center;
     align-items: center;
     width:350px;
+    height: 150px;
     background-color:rgb(68, 84, 84);
     text-align: center;
+    border:solid;
 }
 .header-bar{
     display: flex;
