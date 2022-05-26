@@ -6,6 +6,8 @@
     background-color:white;
     font-family: arial;
     height:300px;
+    margin-left: -10px;
+    margin-right: -10px;
     /* border:solid red 2px; */
 }
 .section-two h4{
