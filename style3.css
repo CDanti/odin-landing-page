@@ -1,0 +1,28 @@
+.section-three{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: grey;
+    height: 300px;
+    margin-left: -10px;
+    margin-right: -10px;
+}
+
+.quote{
+    text-align: left;
+    font-size: 24px;
+    font-style: oblique;
+    width: 550px;
+    line-height: 30px;
+    /* border: solid 2px; */
+}
+
+.quote-author{
+    text-align: right;
+    font-weight: bold;
+    color: rgb(45, 75, 110);
+    font-size: 18px;
+    width: 400px;
+    /* border: solid black 2px; */
+}
