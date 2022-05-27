@@ -2,7 +2,7 @@ Hello again! This is my second real repository and project following "The Odin P
 
 This link should bring you to the <span style="font-weight: bold">example</span> landing page I am expected to recreate: https://cdn.statically.io/gh/TheOdinProject/curriculum/main/foundations/html_css/project/odin-project.png 
 
-This link shold bring you to the current website page I've designed:
+This link shold bring you to the current website page I've designed. My next goal would be to completely personalize the page while linking to my future projects to create a portfolio:
 https://cdanti.github.io/odin-landing-page/ 
 
 Note: You may notice a few different css styling files. This was done for clarity when reading and understanding the files. Each page is dedicated to a different section/layer of the webpage.
