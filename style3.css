@@ -4,9 +4,8 @@
     align-items: center;
     justify-content: center;
     background-color: grey;
-    height: 300px;
-    margin-left: -10px;
-    margin-right: -10px;
+    flex: 1, 1, auto;
+    height: 400px;
 }
 
 .quote{

@@ -1,12 +1,11 @@
 .section-four{
     display: flex;
     background-color: white;
-    height: 300px;
-    margin-left: -10px;
-    margin-right: -10px;
     justify-content: center;
     align-items: center;
     font-family: arial;
+    flex: 1, 1, auto;
+    height: 400px;
 }
 
 .box{
